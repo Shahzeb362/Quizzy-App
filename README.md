@@ -15,9 +15,9 @@ An interactive **iOS quiz app** built in Swift that tests the user’s general k
 ## 📱 Screenshots  
 
 <p align="left">
-  <img src="Document/screenshot1.png" alt="Quiz Question" width="250"/>
-  <img src="Document/screenshot2.png" alt="Quiz Question" width="250"/>
-  <img src="Document/screenshot4.png" alt="Quiz Question" width="250"/>
+  <img src="Document/screenshot5.png" alt="Quiz Question" width="250"/>
+  <img src="Document/screenshot6.png" alt="Quiz Question" width="250"/>
+  <img src="Document/screenshot7.png" alt="Quiz Question" width="250"/>
 </p>  
 
 ---
